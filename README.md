@@ -9,6 +9,7 @@ The goal of this repository is to track my progress, practice problem-solving, a
 Each folder contains a specific challenge and its own `README.md` with more details.
 
 * [User Configuration Manager](./user-configuration-manager) *(freeCodeCamp)*
+* [Budget App](./budget-app) *(freeCodeCamp)*
 * *(More projects coming soon!)*
 
 ## 🚀 Skills in Practice
