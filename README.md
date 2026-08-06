@@ -10,6 +10,7 @@ Each folder contains a specific challenge and its own `README.md` with more deta
 
 * [User Configuration Manager](./user-configuration-manager) *(freeCodeCamp)*
 * [Budget App](./budget-app) *(freeCodeCamp)*
+* [Polygon Area Calculator](./polygon-area-calculator) *(freeCodeCamp)*
 * *(More projects coming soon!)*
 
 ## 🚀 Skills in Practice
