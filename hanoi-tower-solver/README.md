@@ -1,4 +1,4 @@
-<img src="/images/tower-of-hanoi.gif" width="400" alt="Tower of Hanoi Animation" />
+<img src="images/tower-of-hanoi.gif" width="400" alt="Tower of Hanoi Animation" />
 # Build the Tower of Hanoi - freeCodeCamp
 This repository contains my solution for the "Build the Tower of Hanoi" project, required to complete the Scientific Computing with Python Certification at freeCodeCamp.
 
