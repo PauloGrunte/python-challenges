@@ -12,6 +12,7 @@ Each folder contains a specific challenge and its own `README.md` with more deta
 * [Budget App](./budget-app) *(freeCodeCamp)*
 * [Polygon Area Calculator](./polygon-area-calculator) *(freeCodeCamp)*
 * [Hash Table](./hash-table) *(freeCodeCamp)*
+* [Hanoi Tower Solver](./hanoi-tower-solver/) *(freeCodeCamp)*
 * *(More projects coming soon!)*
 
 ## 🚀 Skills in Practice
